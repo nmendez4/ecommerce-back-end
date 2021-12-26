@@ -19,7 +19,7 @@ In order to use this application please have VS Code and Insomnia or some other 
 * Insomnia
 
 ## Screenshots
-![Screenshot-of-VS-Code-and-Insomnia](/assets/e_commerce-ORM.png)
+![Screenshot-of-VS-Code-and-Insomnia](./Assets/e_commerce-ORM.png)
 
 ## Author
 Nicholas Mendez
